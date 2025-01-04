@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/jack-portfolio)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/jack-portfolio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/jack-portfolio?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/qamariit.github.io/portfolio)
+  ![GitHub stars](https://img.shields.io/github/stars/qamariit.github.io/portfolio?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/qamariit.github.io/portfolio?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
   [![YouTube Video Views](https://img.shields.io/youtube/views/DdlVKS7MROY?style=social)](https://youtu.be/DdlVKS7MROY)
 
@@ -15,8 +15,7 @@
 
   This website is fully responsive personal portfolio, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/jack-portfolio/"><strong>➥ Live Demo</strong></a>
-
+  <a href="https://qamariit.github.io/portfolio/"><strong>➥ Live Demo</strong></a>
 </div>
 
 <br />
@@ -38,18 +37,18 @@ To run **jack-portfolio** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/jack-portfolio.git
+sudo git clone https://github.com/qamariit/portfolio.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/jack-portfolio.git
+git clone https://github.com/qamariit/portfolio.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter]().
 
 ### License
 
