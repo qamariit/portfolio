@@ -23,7 +23,7 @@
 
 ### Demo Screeshots
 
-![Jack Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Qamar Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 

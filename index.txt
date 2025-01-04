@@ -1,4 +1,4 @@
-Jack - personal portfolio
+Qamar - personal portfolio
 
 # HEDER
 
@@ -248,7 +248,7 @@ Send
 
 # FOOTER
 
-Jack.
+Qamar.
 
 &copy; 2022 codewithsadee. All rights reserved
 
