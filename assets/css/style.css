@@ -274,6 +274,35 @@ body.active { overflow: hidden; }
   z-index: 1;
 }
 
+/* Remove margin and padding from body and other relevant elements */
+body, ul, li {
+  margin: 0;
+  padding: 0;
+}
+
+/* Style for the image container */
+.appreciation-image {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  padding: 0; /* Ensure no padding around the image container */
+  margin-top: 0; /* Ensure no margin above the image */
+}
+
+/* Style for the image itself */
+.appreciation-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ensures the image fills the entire container without distortion */
+}
+
+/* Optional: Remove any extra spacing after the subtitle, if necessary */
+.section-subtitle {
+  margin-bottom: 0; /* Ensures there is no space below the subtitle */
+}
+
+
+
 
 
 
